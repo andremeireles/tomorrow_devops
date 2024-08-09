@@ -1,0 +1,4 @@
+# Custom ignores
+.vscode/
+# Environments
+.env
